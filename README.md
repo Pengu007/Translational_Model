@@ -4,7 +4,7 @@ This repository contains the code file `Translation_Model.ipynb`, which is a COL
 
 ## Files
 - `Translation_Model.ipynb`: This is a COLAB Notebook file containing the code.
-- `Report.pdf`: A report file providing details about the project and its findings.
+- `CSBS_11.pdf`: A report file providing details about the project and its findings.
 
 ## Links
 The PDF file includes the following links:
