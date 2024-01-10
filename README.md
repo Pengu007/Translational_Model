@@ -12,3 +12,6 @@ The PDF file includes the following links:
 - Other Relevant Links: Inside PDF
 
 Feel free to explore the notebook file and the report for further details.
+
+## Authors
+* [Ved_Y1](https://github.com/Pengu007/)
